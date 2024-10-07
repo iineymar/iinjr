@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,beIN SPORTS 1
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/39224.ts
+#EXTINF:-1,beIN SPORTS 2
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/39225.ts
+#EXTINF:-1,beIN SPORTS 3
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/30758.ts
+#EXTINF:-1,beIN SPORTS 3
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/9151.ts
+#EXTINF:-1,beIN SPORTS 4
+http://vip.itvdom.com:25443/nathalie01/oiuytr2201/28268
+#EXTINF:-1,beIN SPORTS 5
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/28269.ts
+#EXTINF:-1,beIN SPORTS 6
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/28270.ts
+#EXTINF:-1,beIN SPORTS 7
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/28271.ts
+#EXTINF:-1,beIN SPORTS 8
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/279962.ts
+
+#EXTINF:-1,beIN SPORTS 1 RAM
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/30756.ts
+#EXTINF:-1,beIN SPORTS 2 RAM
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/9148.ts
+#EXTINF:-1,beIN SPORTS 3 RAM
+http://vip.itvdom.com:25443/nathalie01/oiuytr2201/28267
+#EXTINF:-1,beIN SPORTS 4 RAM
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/9138.ts
+#EXTINF:-1,beIN SPORTS 5 RAM
+http://vip.itvdom.com:25443/live/nathalie01/oiuytr2201/9140.ts
+
+#EXTINF:-1,beIN SPORTS 1 HEVC
+http://153119834199407534.ofbo1005.xyz/live/vi120344/tuD6QfehwF/333779.ts
+#EXTINF:-1,beIN SPORTS 2 HEVC
+http://153119834199407534.ofbo1005.xyz/live/vi120344/tuD6QfehwF/333785.ts
+#EXTINF:-1,beIN SPORTS 3 HEVC
+http://153119834199407534.ofbo1005.xyz/live/vi120344/tuD6QfehwF/343322.ts
+#EXTINF:-1,beIN SPORTS 4 HEVC
+http://153119834199407534.ofbo1005.xyz/live/vi120344/tuD6QfehwF/333797.ts
+#EXTINF:-1,beIN SPORTS 5 HEVC
+http://153119834199407534.ofbo1005.xyz/live/vi120344/tuD6QfehwF/333802.ts
+
+#EXTINF:-1,beIN SPORTS 1 MAC
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:C0:3F:FD&stream=147140&extension=ts&play_token=LFDcNvPaZb
+#EXTINF:-1,beIN SPORTS 2 MAC
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:C0:3F:FD&stream=147141&extension=ts&play_token=LFDcNvPaZb
+#EXTINF:-1,beIN SPORTS 3 MAC
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:C0:3F:FD&stream=147142&extension=ts&play_token=LFDcNvPaZb
+
+#EXTINF:-1,beIN SPORTS 1 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/459.ts
+#EXTINF:-1,beIN SPORTS 2 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/450.ts
+#EXTINF:-1,beIN SPORTS 3 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/451.ts
+#EXTINF:-1,beIN SPORTS 4 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/453.ts
+#EXTINF:-1,beIN SPORTS 5 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/3875.ts
+#EXTINF:-1,beIN SPORTS 6 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/455.ts
+#EXTINF:-1,beIN SPORTS 7 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4002.ts
+#EXTINF:-1,beIN SPORTS 8 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/457.ts
+#EXTINF:-1,beIN SPORTS 9 Ugeen
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4003.ts
+
+#EXTINF:-1,SSC 1 FHD
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4119.ts
+#EXTINF:-1,SSC 5 FHD
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4126.ts
+#EXTINF:-1,SSC EXTRA 1 FHD
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4128.ts
+#EXTINF:-1,SSC EXTRA 2 FHD
+http://ugeen.live:8080/live/kaicer_VIP9bp7hr/a193j0/4130.ts
